@@ -1,0 +1,8 @@
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\bin\Debug\Lista-de-tarefas.exe.config
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\bin\Debug\Lista-de-tarefas.exe
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\bin\Debug\Lista-de-tarefas.pdb
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\obj\Debug\Lista-de-tarefas.csproj.AssemblyReference.cache
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\obj\Debug\Lista-de-tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\obj\Debug\Lista-de-tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\obj\Debug\Lista-de-tarefas.exe
+C:\Users\Adão\source\repos\Lista-de-tarefas\Lista-de-tarefas\obj\Debug\Lista-de-tarefas.pdb
